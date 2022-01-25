@@ -8,10 +8,28 @@ body
     padding: 0;
 }
 
+#cabecera 
+{
+    background-color: #28b;
+    margin: 0;
+    padding: 0.5em;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    box-shadow: 0px 2px 10px 2px #444;
+}
+
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 20px;
+} 
+
 #container 
 {
     width: 60%;
-    padding: 1em;
+    padding: 0;
     text-align: left;
     border: 3px solid #28b;
     margin: 0% auto;
@@ -20,4 +38,9 @@ body
 #container h1
 {
     font-size: 30px;
+}
+
+#post 
+{
+    padding: 1em;
 }
