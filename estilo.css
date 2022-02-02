@@ -15,6 +15,11 @@ body
     height: 5%;
 }
 
+#snake
+{
+    margin: 0em 14em;
+}
+
 #cabecera 
 {
     background-color: #28b;
